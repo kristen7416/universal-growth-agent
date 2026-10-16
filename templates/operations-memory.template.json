@@ -1,0 +1,33 @@
+{
+  "project_name": "Universal Growth Agent",
+  "version": "1.0.0",
+  "last_updated": "2026-10-16",
+  "platforms": {
+    "X": {
+      "status": "active",
+      "published_records": 0,
+      "best_performing_formats": ["thread", "short_demo_gif"],
+      "average_engagement_rate": "2.4%"
+    },
+    "Reddit": {
+      "status": "active",
+      "published_records": 0,
+      "rule_checklist": "10:1 contribution rule, always disclose affiliation, no affiliate links",
+      "monitored_subreddits": ["software", "productivity", "webdev"]
+    },
+    "Hacker News": {
+      "status": "active",
+      "preferred_mode": "Show HN with live sandbox / GitHub source",
+      "published_records": 0
+    },
+    "Product Hunt": {
+      "status": "ready_for_launch",
+      "maker_account": "@yourhandle"
+    }
+  },
+  "blocked_rules": [
+    "Never post repetitive comments across multiple threads",
+    "Never claim absolute security or zero-knowledge without verified proof",
+    "Do not disguise brand promotion as organic user recommendations"
+  ]
+}
